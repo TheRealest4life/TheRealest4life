@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hello I'm Darrion, an <a href="https://www.linkedin.com/in/joel-joseph-768b8a270/">IT Specialist</a>☺</h1>
 
-<!--
-**TheRealest4life/TheRealest4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🖥️ Information Technology Projects🖥</h2>
 
-Here are some ideas to get you started:
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joeljjoseph1998/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joeljjoseph1998/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joeljjoseph1998/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📩Contact Me</h2>
+
+<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+https://www.linkedin.com/in/darrion-leggette-092189142/
